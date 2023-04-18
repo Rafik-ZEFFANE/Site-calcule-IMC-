@@ -35,3 +35,4 @@ function calculateBMI() {
 
   showResult(BMI);
 }
+j'ai fait une modification
